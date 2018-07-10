@@ -15,3 +15,4 @@ post {
            archiveArtifacts artifacts: 'rectangle.jar',fingerprint:true
 }
 }
+}
